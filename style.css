@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+th,td {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid rgb(255, 106, 0);
+}
+
+tr:nth-child(odd) {
+    background-color: #ffbb7f;
+  }
